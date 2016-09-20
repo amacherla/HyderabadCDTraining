@@ -6,8 +6,7 @@
 Steps:
 	
 	1. Create an Empty folder
-	2. Type following git command
-		`git init`
+	2. Type following git command  `git init`
 	3. create a Readme.md file
 	4. Add some cool stuff in the file
 	5. Type the following command to stage the file for commit
